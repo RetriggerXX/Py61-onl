@@ -1,1 +1,1 @@
-print("emp")
+print("empty")
